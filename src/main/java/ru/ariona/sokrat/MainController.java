@@ -15,8 +15,7 @@ public class MainController {
     @Autowired
     SokratService sokratService;
 
-   // private final String host = "localhost:8080/";
-    private final String host = "http://sokratitel.herokuapp.com/";
+    private final String host = "localhost:8080/";
 
 
     @GetMapping("/")
