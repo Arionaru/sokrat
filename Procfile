@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -Dspring.profiles.active="datajpa,heroku" -DTOPJAVA_ROOT="." -jar target/dependency/webapp-runner.jar --port $PORT target/*.jar --server.port=$PORT
+web: java -jar target/sokrat-1.0-SNAPSHOT.jar
