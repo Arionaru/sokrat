@@ -17,7 +17,6 @@ public class MainController {
 
     private final String host = "https://sokratitel.herokuapp.com";
 
-
     @GetMapping("/")
     public String mainPage() {
         return "mainpage";
