@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3c0b9fbd-871f-4380-a238-9f15dbd302a7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ariona/sokrat/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ariona/sokrat/MainController.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -48,7 +49,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/ru/ariona/sokrat/MainController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="17" column="65" selection-start-line="17" selection-start-column="65" selection-end-line="17" selection-end-column="65" />
+              <caret line="17" column="66" selection-start-line="17" selection-start-column="66" selection-end-line="17" selection-end-column="66" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -208,7 +209,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559808163326" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559808230292" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -267,7 +268,7 @@
       <updated>1559199868294</updated>
       <workItem from="1559199872396" duration="24967000" />
       <workItem from="1559562685717" duration="1880000" />
-      <workItem from="1559805176314" duration="2883000" />
+      <workItem from="1559805176314" duration="3167000" />
     </task>
     <task id="LOCAL-00001" summary="v0.1">
       <created>1559213035040</created>
@@ -360,11 +361,18 @@
       <option name="project" value="LOCAL" />
       <updated>1559807757408</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="v0.1 deploy">
+      <created>1559808209376</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1559808209376</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29730000" />
+    <option name="totallyTimeSpent" value="30014000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1349" height="735" extended-state="0" />
@@ -589,7 +597,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/ariona/sokrat/MainController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" column="65" selection-start-line="17" selection-start-column="65" selection-end-line="17" selection-end-column="65" />
+          <caret line="17" column="66" selection-start-line="17" selection-start-column="66" selection-end-line="17" selection-end-column="66" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
